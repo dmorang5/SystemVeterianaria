@@ -1,0 +1,3 @@
+Usuario1;Cod_Usuario = 1, Nombre_Usuario = juan, Password = jose, Cod_Rol = 2, Estado = true, 
+Usuario2;Cod_Usuario = 2, Nombre_Usuario = julio, Password = julio3, Cod_Rol = 3, Estado = false, 
+Usuario3;Cod_Usuario = 3, Nombre_Usuario = luis, Password = luisa, Cod_Rol = 5, Estado = true, 
